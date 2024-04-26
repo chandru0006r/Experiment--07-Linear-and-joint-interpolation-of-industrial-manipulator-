@@ -1,6 +1,6 @@
 # Experiment 07 Linear and joint interpolation of industrial manipulator
-## NAME: AVINASH T
-## REG NO: 212223230026
+## NAME: CHANDRU V
+## REG NO: 212222040029
 ### Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
 ### Equipment Required: 
