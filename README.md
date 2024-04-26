@@ -1,13 +1,12 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+# Experiment 07 Linear and joint interpolation of industrial manipulator
+## NAME: AVINASH T
+## REG NO: 212223230026
 ### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
-      
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform 
-      
+Instrial manipulator , teach pendant and associated program platform  
 ### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -36,38 +35,10 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
-
+DART studio screen shots for linear interpolation and DART studio screen shots for joint interpolation 
+![WhatsApp Image 2024-04-15 at 14 31 19_a0407930](https://github.com/AVINASH05T/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151514286/177265bb-d2d9-4f96-96a8-ebdd9ddc36aa)
 ### Robot movements 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-15 at 14 31 20_9e66b780](https://github.com/AVINASH05T/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151514286/83acec10-4564-4e7c-96b6-5334e302ae04)
+![WhatsApp Image 2024-04-15 at 14 31 20_b8fc7783](https://github.com/AVINASH05T/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151514286/a2a438ad-7556-4826-9c42-9d34e6f93f93)
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
